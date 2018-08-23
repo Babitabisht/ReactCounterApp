@@ -1,0 +1,1 @@
+<h1>Counter App built with React</h1>
